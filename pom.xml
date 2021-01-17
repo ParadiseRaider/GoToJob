@@ -41,4 +41,8 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+
+    <modules>
+        <module>hello</module>
+    </modules>
 </project>
